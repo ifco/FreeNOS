@@ -1,5 +1,4 @@
 /*
- * Copyright (C) 1999  Free Software Foundation, Inc.
  * Copyright (C) 2009 Niek Linnenbank
  * 
  * This program is free software: you can redistribute it and/or modify
